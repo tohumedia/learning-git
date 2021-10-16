@@ -1,0 +1,27 @@
+body {
+    /* background-image: url(https://pbblogassets.s3.amazonaws.com/uploads/2015/10/Professional-Video-Editing-Tips-and-Tricks.jpg); */
+}
+h1 {
+    font-size: 90px;
+    color: red;
+    background-color: purple;
+    font-family: Tahoma;
+}
+
+.firstHeading {
+    font-size: 50px;
+}
+
+.bg {
+    background-color: blue;
+}
+
+#heading1 {
+    background-color: orange;
+}
+.myClass {
+    background-color: blue;
+    color:brown;
+    border: 5px black solid;
+    margin: 100px 10px 50px 30px;
+}
